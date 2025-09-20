@@ -1,3 +1,17 @@
+---
+
+## 📷 Screenshots
+
+<p align="center">
+  <img src="./screenshots/1.png" width="250" />
+  <img src="./screenshots/2.png" width="250" />
+  <br/>
+  <img src="./screenshots/3.png" width="250" />
+  <img src="./screenshots/4.png" width="250" />
+</p>
+
+---
+
 # 💸 Wallet App (React Native + Expo)
 
 A simple **personal finance app** built with **React Native** and **Expo**.  
